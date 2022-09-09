@@ -1,6 +1,6 @@
 html {
     font-family: 'Courier New', Courier, monospace;
-    background-image: url('./assets/background.png');
+    background-image: url("./assets/background.png");
     margin: 0;
 }
 
