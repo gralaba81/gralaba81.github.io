@@ -6,3 +6,6 @@ From central GitHub
 =======
 Try from desktop.
 >>>>>>> Stashed changes
+
+
+Modification on GitHub
